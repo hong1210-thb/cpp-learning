@@ -1,0 +1,8 @@
+line1
+line2
+total 12
+-rw-r--r-- 1 asus asus    0 Jun  6 19:00 c.txt
+-rwxr-xr-x 1 asus asus   12 Jun  6 19:04 d.txt
+-rw-r--r-- 1 asus asus   12 Jun  6 19:16 file.txt
+-rw-r--r-- 1 asus asus    0 Jun  6 19:18 listing.txt
+drwxr-xr-x 2 asus asus 4096 Jun  6 19:07 subdir
